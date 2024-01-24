@@ -1,6 +1,10 @@
 Qwiic_I2C_Py
 ==============
 
+###########################################################
+#This fork is a modified version of Qwiic_I2C_Py in an attempt to remove the __future__ import to make it compatible with Thonny and Raspberry Pi Pico
+###########################################################
+
 <p align="center">
    <img src="https://cdn.sparkfun.com/assets/custom_pages/2/7/2/qwiic-logo-registered.jpg"  width=200>  
    <img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png"  width=240>   
